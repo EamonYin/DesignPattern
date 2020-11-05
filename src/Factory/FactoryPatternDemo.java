@@ -4,6 +4,7 @@ package Factory;
  * @author:YiMing
  * @create:2020/11/5,16:18
  * @version:1.0
+ * 简单工厂模式
  */
 public class FactoryPatternDemo{
     public static void main(String[] args) {
