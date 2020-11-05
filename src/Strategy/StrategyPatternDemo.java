@@ -9,6 +9,7 @@ import Strategy.impl.OperationSubtract;
  * @author:YiMing
  * @create:2020/11/5,15:29
  * @version:1.0
+ * 策略模式
  */
 public class StrategyPatternDemo {
     public static void main(String[] args) {
