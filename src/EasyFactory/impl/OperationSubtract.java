@@ -1,6 +1,6 @@
-package Factory.impl;
+package EasyFactory.impl;
 
-import Factory.Operation;
+import EasyFactory.Operation;
 
 /**
  * @author:YiMing

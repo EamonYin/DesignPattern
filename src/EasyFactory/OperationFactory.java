@@ -1,8 +1,8 @@
-package Factory;
+package EasyFactory;
 
-import Factory.impl.OperationAdd;
-import Factory.impl.OperationMultiply;
-import Factory.impl.OperationSubtract;
+import EasyFactory.impl.OperationAdd;
+import EasyFactory.impl.OperationMultiply;
+import EasyFactory.impl.OperationSubtract;
 
 /**
  * @author:YiMing
